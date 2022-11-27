@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reddy-sairam
 - 👀 I’m interested in DATA ANALYST
-- 🌱 I’m currently learning SQL, POWER BI
+- 🌱 I am well versed in SQL, POWER BI, Python
 - 📫 How to reach me sairamreddy079@gmail.com
 
 <!---
